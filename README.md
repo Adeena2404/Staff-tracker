@@ -1,0 +1,2 @@
+<h1>STAFF TRACKER USING OOP</h1>
+<P>For both full-time and part-time employees, the Java application "Staff Payment Tracker" simplifies the administration of personnel data. It manages data using an ArrayList and makes use of encapsulation and inheritance. The application makes it easier to add, remove, and examine employee details. It also acts as a tool for managing and keeping an eye on staff payment records.</P>
